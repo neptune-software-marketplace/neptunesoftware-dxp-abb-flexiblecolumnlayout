@@ -1,0 +1,54 @@
+{
+	"id": "DBF929BC-5112-ED11-BD6E-000D3AB1D9FF",
+	"createdAt": "2022-08-02T10:56:18.700Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-flexiblecolumnlayout",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-flexiblecolumnlayout",
+	"description": null,
+	"ver": "22.8.2.1057",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "434EDFD9-E0E0-4178-836A-0C6E1942B79C",
+			"ver": "22.8.2.1256",
+			"application": "flexiblecolumnlayout_with_functionality",
+			"title": "Fiori 3 - Flexible Column Layout",
+			"description": "Fiori 3 - Flexible Column Layout"
+		},
+		{
+			"id": "FB30531C-A3B9-4E32-8202-CBCA5942EB1E",
+			"ver": "22.8.2.1257",
+			"application": "flexiblelayoutbbconvert",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
