@@ -1,0 +1,8 @@
+if (typeof( VBELN ) == "undefined" || VBELN === null || VBELN == "") { return; }
+if (typeof( POSNR ) == "undefined" || POSNR === null || POSNR == "") { return; }
+var formattedText =  VBELN.replace(/^0+/, '') + ' / ' + POSNR.replace(/^0+/, '');
+return formattedText;
+if (typeof( VBELN ) == "undefined" || VBELN === null || VBELN == "") { return; }
+if (typeof( POSNR ) == "undefined" || POSNR === null || POSNR == "") { return; }
+var formattedText =  VBELN.replace(/^0+/, '') + ' / ' + POSNR.replace(/^0+/, '');
+return formattedText;

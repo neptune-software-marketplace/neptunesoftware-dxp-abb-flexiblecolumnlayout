@@ -1,0 +1,4 @@
+// if (currItem !== 0) {
+//     currItem--;
+//     modeloPageItem.setData(modelDetailList.oData[currItem]);
+// }

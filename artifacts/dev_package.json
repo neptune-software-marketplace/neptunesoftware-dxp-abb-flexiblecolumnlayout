@@ -1,5 +1,5 @@
 {
-	"id": "DBF929BC-5112-ED11-BD6E-000D3AB1D9FF",
+	"id": "dbf929bc-5112-ed11-bd6e-000d3ab1d9ff",
 	"createdAt": "2022-08-02T10:56:18.700Z",
 	"createdBy": "kristin.eliassen@neptune-software.com",
 	"git": {
@@ -13,23 +13,27 @@
 	"enableCICD": true,
 	"apps": [
 		{
-			"id": "434EDFD9-E0E0-4178-836A-0C6E1942B79C",
-			"ver": "22.8.2.1256",
-			"application": "flexiblecolumnlayout_with_functionality",
-			"title": "Fiori 3 - Flexible Column Layout",
-			"description": "Fiori 3 - Flexible Column Layout"
-		},
-		{
-			"id": "FB30531C-A3B9-4E32-8202-CBCA5942EB1E",
-			"ver": "22.8.2.1257",
+			"id": "fb30531c-a3b9-4e32-8202-cbca5942eb1e",
 			"application": "flexiblelayoutbbconvert",
 			"title": "",
-			"description": ""
+			"description": "",
+			"package": {
+				"id": "dbf929bc-5112-ed11-bd6e-000d3ab1d9ff"
+			}
+		},
+		{
+			"id": "434edfd9-e0e0-4178-836a-0c6e1942b79c",
+			"application": "flexiblecolumnlayout_with_functionality",
+			"title": "Fiori 3 - Flexible Column Layout",
+			"description": "Fiori 3 - Flexible Column Layout",
+			"package": {
+				"id": "dbf929bc-5112-ed11-bd6e-000d3ab1d9ff"
+			}
 		}
 	],
 	"api": [],
-	"odataMock": [],
 	"odataSource": [],
+	"odataMock": [],
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
@@ -47,8 +51,12 @@
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
-	"wf_definition": [],
 	"department": [],
 	"script_scheduler": [],
-	"connector": []
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
 }

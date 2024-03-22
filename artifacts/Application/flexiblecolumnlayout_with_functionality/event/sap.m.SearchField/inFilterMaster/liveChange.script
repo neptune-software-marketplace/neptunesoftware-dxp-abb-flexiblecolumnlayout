@@ -1,0 +1,3 @@
+var binding = MasterList.getBinding("items");
+var filter = new sap.ui.model.Filter("FILTER", "Contains", this.getValue());
+binding.filter([filter]);

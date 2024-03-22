@@ -1,0 +1,10 @@
+// var context = oEvent.oSource.getBindingContext();
+// modeloPageItem.setData(context.getObject());
+
+// // Save Item Index
+// currItem = parseInt(context.sPath.replace(/^\/|\/$/g, ''));
+
+// Navigate
+navigateToDetailDetail();
+
+// oLayoutMain.toMidColumnPage(oPageItem);

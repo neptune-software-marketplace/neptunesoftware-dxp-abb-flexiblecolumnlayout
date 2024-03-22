@@ -1,0 +1,6 @@
+// var numItem = currItem + 1;
+
+// if (numItem < modelDetailList.oData.length) {
+//     currItem++;
+//     modeloPageItem.setData(modelDetailList.oData[currItem]);
+// }

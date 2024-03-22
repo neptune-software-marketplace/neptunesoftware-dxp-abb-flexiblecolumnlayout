@@ -1,0 +1,5 @@
+if (sap.n) {
+    oLayoutMain.to(localViewID+'--oPageDetail2');
+} else {
+    oLayoutMain.to('oPageDetail2');
+}
