@@ -9,7 +9,7 @@
 	},
 	"name": "neptunesoftware-dxp-abb-flexiblecolumnlayout",
 	"description": null,
-	"ver": "22.8.2.1057",
+	"ver": "24.10.29.1320",
 	"enableCICD": true,
 	"apps": [
 		{
